@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.omig12.valahello2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 12:38-0400\n"
+"POT-Creation-Date: 2019-05-28 13:10-0400\n"
 "PO-Revision-Date: 2019-05-28 12:38-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: src/Application.vala:11
 msgid "Hello Again World!"
-msgstr "¡Hola Nuevamente Mundo!"
+msgstr "Hola Nuevamente Mundo!"
 
 #: src/Application.vala:16
 msgid "The title"
-msgstr "El título"
+msgstr "El titulo"
 
 #: data/com.github.omig12.valahello2.desktop.in:3
 msgid "Hello Again"
