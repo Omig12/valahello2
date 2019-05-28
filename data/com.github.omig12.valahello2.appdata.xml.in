@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Copyright 2019 Israel O. Dilán-Pantojas <israel.dilan@upr.edu>-->
+<component type="desktop">
+    <id>com.github.omig12.valahello2</id>
+    <metadata_license>CC0</metadata_license>
+    <name>_("Hello Again App")</name>
+    <summary>_("A Catchy Tagline")</summary>
+    <description>
+        <p>_("A quick summary of the App.")</p>
+    </description>
+
+    <custom>
+        <value key="x-appcenter-color-primary">#603461</value>
+        <value key="x-appcenter-color-primary-text">rgb(255,255,255)</value>
+        <value key="x-appcenter-suggested-price">1</value>
+    </custom>
+</component>
+

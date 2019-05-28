@@ -1,0 +1,58 @@
+# Spanish translations for com.github.omig12.valahello2 package.
+# Copyright (C) 2019 THE com.github.omig12.valahello2'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.omig12.valahello2 package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.omig12.valahello2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-28 12:14-0400\n"
+"PO-Revision-Date: 2019-05-28 12:14-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/Application.vala:11
+msgid "Hello Again World!"
+msgstr ""
+
+#: src/Application.vala:16
+msgid "The title"
+msgstr ""
+
+#: data/com.github.omig12.valahello2.desktop.in:3
+msgid "_(\"Hello Again\")"
+msgstr ""
+
+#: data/com.github.omig12.valahello2.desktop.in:4
+msgid "_(\"Hello World App\")"
+msgstr ""
+
+#: data/com.github.omig12.valahello2.desktop.in:5
+msgid "_(\"Proves that we can use Vala and Gtk\")"
+msgstr ""
+
+#: data/com.github.omig12.valahello2.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/com.github.omig12.valahello2.desktop.in:11
+msgid "Hello;World;Example;"
+msgstr ""
+
+#: data/com.github.omig12.valahello2.appdata.xml.in:6
+msgid "_(\"Hello Again App\")"
+msgstr ""
+
+#: data/com.github.omig12.valahello2.appdata.xml.in:7
+msgid "_(\"A Catchy Tagline\")"
+msgstr ""
+
+#: data/com.github.omig12.valahello2.appdata.xml.in:9
+msgid "_(\"A quick summary of the App.\")"
+msgstr ""

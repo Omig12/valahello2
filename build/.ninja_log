@@ -1,0 +1,8 @@
+# ninja log v5
+0	244	1559058345	com.github.omig12.valahello2@exe/src/Application.c	cd9e31e365b63631
+244	474	1559058345	com.github.omig12.valahello2@exe/meson-generated_src_Application.c.o	1b38f46dd0221fda
+475	565	1559058345	com.github.omig12.valahello2	570c17b03f09fdb9
+1	415	0	meson-install	9bd7faa9472bf40f
+0	297	1559059976	build.ninja	f81f8cfaf45f5b70
+0	509	0	meson-com.github.omig12.valahello2-pot	48c112e07b0b9852
+0	493	0	meson-com.github.omig12.valahello2-update-po	71b0b075017a4f26

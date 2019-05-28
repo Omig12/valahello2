@@ -1,0 +1,16 @@
+Build started at 2019-05-28T12:12:56.740710
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.49.2
+Source dir: /home/israel/Projects/hello-again
+Build dir: /home/israel/Projects/hello-again/build
+Build type: native build
+Project name: com.github.omig12.valahello2
+Project version: undefined
+Native C compiler: cc (gcc 7.4.0 "cc (Ubuntu 7.4.0-1ubuntu1~18.04) 7.4.0")
+Native Vala compiler: valac (valac 0.40.15)
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Build targets in project: 5
+Found ninja-1.8.2 at /usr/bin/ninja

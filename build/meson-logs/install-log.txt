@@ -1,0 +1,5 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/usr/bin/com.github.omig12.valahello2
+/usr/share/applications/com.github.omig12.valahello2.desktop
+/usr/share/metainfo/com.github.omig12.valahello2.appdata.xml
