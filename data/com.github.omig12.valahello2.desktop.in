@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=_("Hello Again")
-GenericName=_("Hello World App")
-Comment=_("Proves that we can use Vala and Gtk")
+Name=Hello Again
+GenericName=Hello World App
+Comment=Proves that we can use Vala and Gtk
 Categories=Utility;Education;
 Exec=com.github.omig12.valahello2
 Icon=application-default-icon

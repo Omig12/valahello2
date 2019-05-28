@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.omig12.valahello2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-28 12:14-0400\n"
+"POT-Creation-Date: 2019-05-28 12:38-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,15 +26,15 @@ msgid "The title"
 msgstr ""
 
 #: data/com.github.omig12.valahello2.desktop.in:3
-msgid "_(\"Hello Again\")"
+msgid "Hello Again"
 msgstr ""
 
 #: data/com.github.omig12.valahello2.desktop.in:4
-msgid "_(\"Hello World App\")"
+msgid "Hello World App"
 msgstr ""
 
 #: data/com.github.omig12.valahello2.desktop.in:5
-msgid "_(\"Proves that we can use Vala and Gtk\")"
+msgid "Proves that we can use Vala and Gtk"
 msgstr ""
 
 #: data/com.github.omig12.valahello2.desktop.in:8
@@ -46,13 +46,13 @@ msgid "Hello;World;Example;"
 msgstr ""
 
 #: data/com.github.omig12.valahello2.appdata.xml.in:6
-msgid "_(\"Hello Again App\")"
+msgid "Hello Again App"
 msgstr ""
 
 #: data/com.github.omig12.valahello2.appdata.xml.in:7
-msgid "_(\"A Catchy Tagline\")"
+msgid "A Catchy Tagline"
 msgstr ""
 
 #: data/com.github.omig12.valahello2.appdata.xml.in:9
-msgid "_(\"A quick summary of the App.\")"
+msgid "A quick summary of the App."
 msgstr ""

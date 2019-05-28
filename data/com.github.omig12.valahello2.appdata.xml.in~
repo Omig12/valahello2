@@ -3,10 +3,10 @@
 <component type="desktop">
     <id>com.github.omig12.valahello2</id>
     <metadata_license>CC0</metadata_license>
-    <name>Hello Again App</name>
-    <summary>A Catchy Tagline</summary>
+    <name>_("Hello Again App")</name>
+    <summary>_("A Catchy Tagline")</summary>
     <description>
-        <p>A quick summary of the App.</p>
+        <p>_("A quick summary of the App.")</p>
     </description>
 
     <custom>
